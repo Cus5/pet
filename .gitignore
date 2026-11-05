@@ -1,0 +1,17 @@
+*.iml
+.gradle/
+.kotlin/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+# 서명 키와 비밀 정보는 절대 커밋하지 않습니다
+*.jks
+*.keystore
+/keystore.properties
+# 스크린샷 테스트 결과(필요 시 docs/screenshots 로 복사)
+/app/build/outputs/roborazzi/

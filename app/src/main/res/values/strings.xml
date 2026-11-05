@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">견심이</string>
+    <string name="notification_channel_reminder">기록 알림</string>
+    <string name="notification_channel_reminder_desc">매일 저녁 오늘의 먹이·건강 기록을 잊지 않도록 알려드려요.</string>
+</resources>
